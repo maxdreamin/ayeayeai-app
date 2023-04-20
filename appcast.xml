@@ -4,6 +4,14 @@
         <title>AyeAyeAI</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 20 Apr 2023 21:08:38 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxdreamin/ayeayeai-app/releases/download/v1.0/AyeAyeAI-1.0-2.zip" length="11633838" type="application/octet-stream" sparkle:edSignature="S2+QLhtVMqTcADjD7B5ENyyUepfpQy5C4cD9l8udXdD2pIjcL6EN6K3P80atA1WX2vmRf6lrF4AUIiBKj8q/Dw=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 12 Apr 2023 14:37:09 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
